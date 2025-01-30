@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jarmu", "jarmu\jarmu.csproj", "{070F3221-F2D9-409A-A4AE-93DBD6EC9BF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{070F3221-F2D9-409A-A4AE-93DBD6EC9BF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{070F3221-F2D9-409A-A4AE-93DBD6EC9BF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{070F3221-F2D9-409A-A4AE-93DBD6EC9BF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{070F3221-F2D9-409A-A4AE-93DBD6EC9BF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E52B7010-ED4D-4DCE-9B12-7E922571E3FB}
+	EndGlobalSection
+EndGlobal
